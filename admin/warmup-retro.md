@@ -13,7 +13,7 @@
 **1. Akash S**:
   - **Strength**: 
     - A productive working environment was setup through a deep understanding and thorough exploration of the tools and technologies involved in the repository.
-    - I made sure to complete tasks on time, implementing new ideas to improve the work outcome.
+    - I made sure to complete tasks on time, implementing new ideas such as the draggable footnote, style change to improve the work outcome.
     - I was able to understand, debug, and grasp the functionality of the code effectively to resolve issues and ensuring smooth workflow.
 
  - **Weakness**:
