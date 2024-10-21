@@ -39,6 +39,16 @@
  - **Weakness**:
    - Not enough time to work with others in the team.
    - I didn't contribute much to the programming aspect because I was still familiarizing myself with the programming environment.
+  
+**5. Ryosuke Matsuzawa**:
+ - **Strength**:
+   - Read original version's document carefully and contributed project documentation.
+   - Implemented new option of primary function required in the team meeting, although it was rejected later because the request was from the requester's misunderstanding.
+
+ - **Weakness**:
+   - No experience of frontend development. I spent a lot of time to find out Typescript and CSS.
+   - have a disadvantage on verbal communication with the teammates because of my poor English.
+
 
 
 ## Strengths and Weaknesses of Team Operations
