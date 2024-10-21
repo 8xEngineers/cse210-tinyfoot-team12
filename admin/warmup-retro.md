@@ -54,6 +54,15 @@
    - No experience of frontend development. I spent a lot of time to find out TypeScript and CSS.
    - have a disadvantage on verbal communication with the teammates because of my poor English.
 
+**6. Hanzhe Liu**:
+ - **Strength**:
+   - Familiar with Git and has some knowledge of front-end development.
+   - Described how to use Bigfoot in the initial documentation and helped the team complete part of the Bigfoot demo.
+
+ - **Weakness**:
+   - My spoken English is not very good, which makes it difficult to communicate effectively with teammates during group meetings.
+   - Due to time constraints this week, I didn't contribute much to the code part of the group assignment.
+
 
 
 ## Strengths and Weaknesses of Team Operations
