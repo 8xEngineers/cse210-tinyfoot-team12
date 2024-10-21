@@ -30,6 +30,11 @@
    - Had difficulty in documenting the work done which got improved with the help of my peers.
 
 **3. Sudhansh**:
+- **Strength**:
+  - Ensuring all the aspects of the task are covered, and brainstorming new ideas for the problems at hand.
+- **Weaknesses** -
+  - Planning the correct order of attacking the problem. I executed the tasks in  convoluted order because of lack of familiairity with the plugin architectures. 
+
 
 **4. Jialin He**:
  - **Strength**:
