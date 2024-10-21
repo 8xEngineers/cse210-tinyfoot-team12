@@ -31,6 +31,14 @@
 
 **3. Sudhansh**:
 
+**4. Jialin He**:
+ - **Strength**:
+   - Respond to the team's decisions in Mattermost in a timely manner and share your thoughts to help the team take the next step.
+   - Helped the team to fill out the document and add content in part 2, and completed the demo independently.
+
+ - **Weakness**:
+   - Not enough time to work with others in the team.
+   - I didn't contribute much to the programming aspect because I was still familiarizing myself with the programming environment.
 
 
 ## Strengths and Weaknesses of Team Operations
