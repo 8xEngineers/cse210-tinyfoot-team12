@@ -74,6 +74,15 @@
    - Should have check the chat more often for updates and involves in more discussion.
    - Limited knowledge on web dev prevents me from more detailed and tehchnical aspect of the assignment.
 
+**8. Kirsten Yang**:
+ - **Strength**:
+   - Experienced in Git collaboration, creating issues, branches, and pull requests to avoid conflicts during teamwork.
+   - Implemented the highlight feature in Tinyfoot by understanding the code structure.
+   - Identified redundant code issues in the Littlefoot repository and created a pull request to resolve them.
+
+ - **Weakness**:
+   - Time conflicts on the weekends, making it difficult to help with the final wrap-up of assignments.
+   - Still have more to learn about Git workflows and web development knowledge.
 
 ## Strengths and Weaknesses of Team Operations
 
