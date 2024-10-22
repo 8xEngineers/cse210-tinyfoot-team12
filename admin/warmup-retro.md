@@ -63,6 +63,16 @@
    - My spoken English is not very good, which makes it difficult to communicate effectively with teammates during group meetings.
    - Due to time constraints this week, I didn't contribute much to the code part of the group assignment.
 
+**7. Botao Zhang**:
+ - **Strength**:
+   - Quickly understand the code structure, identifying the purpose of each file and how the project associate with the tools it uses.
+   - Familiar with GitHub workflows, including managing issues, working with branches, and submitting pull requests.
+   - Completed the tasks assigned and participated in meetings whenever my schedule permitted.
+
+ - **Weakness**:
+   - Due to a particularly tight schedule this week, I was unable to attend some of the meetings and discussions, I recognize that my level of effort could have been improved in the future assignments.
+   - Should have check the chat more often for updates and involves in more discussion.
+   - Limited knowledge on web dev prevents me from more detailed and tehchnical aspect of the assignment.
 
 
 ## Strengths and Weaknesses of Team Operations
